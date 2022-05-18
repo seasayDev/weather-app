@@ -1,7 +1,7 @@
 # weather-app
  ![weather](assets/weather.png)
 
-
+**Live DEMO**  (Click) --> <https://weather-app-hazel-xi.vercel.app/>
 ### Description
 **weather-app** is a  small app that displays the weather data of the world's major cities through a search bar using [openweathermap](https://openweathermap.org/api) API. 
 
