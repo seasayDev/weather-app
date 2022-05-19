@@ -1,3 +1,4 @@
+/* A JavaScript object that is used to fetch the weather data from the OpenWeatherMap API. */
 let weather = {
     apikey: "5bc2b4f40acfffa046713955a4370d52",
     fetchWeather: function (city) {
